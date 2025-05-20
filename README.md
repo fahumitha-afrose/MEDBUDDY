@@ -1,5 +1,4 @@
-**MedBuddy Insurance Charges Prediction
-**
+**MedBuddy Insurance Charges Prediction**
 This project aims to predict medical insurance charges based on personal and policy details using machine learning techniques. By analyzing features such as age, gender, BMI, and other factors, the models provide accurate estimates of insurance costs.
 
 Dataset
